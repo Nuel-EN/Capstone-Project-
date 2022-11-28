@@ -20,4 +20,20 @@ _Protocol writer: Devyn_
 - Devyn: began working on Project Plan and project management (teams) expectations
 - Akshay: began working on a rough entity relationship diagram
 - Martin: began working on project management (tools) expectations
-## **5. Friday**
+
+## **5. Friday 25.11.2022**
+
+- Want most to have most tasks done by Monday
+- Why? - questions ideas
+    - 
+- Answered collectively the "whys"
+- Answered collectively the "objectives"
+- Answered collectively the "deliverables"
+- Answered collectively the "tools"
+- Answered collectively the "execution"
+
+### Assigned weekends tasks
+- Finish Friday protocol - Devyn
+- Data catalog - Akshay, Nuel
+- Upload ER diagram - Akshay, Martin
+- Add project management to slides - Devyn
