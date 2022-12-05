@@ -1,12 +1,5 @@
 # **Week 1, 21.11.2022 - 25.11.2022**
-_Protocol writer: Devyn_
-
-## **Basic Overview**
-1. Monday
-2. Tuesday
-3. Wednesday
-4. Thursday
-5. Friday
+_Protocol writer: Akshay, Devyn, Nuel, and Martin_
 
 ## **1. Monday**
 
@@ -42,7 +35,8 @@ _Protocol writer: Devyn_
 
 
 ### **7. Tuesday 29.11.2022**
-- Stakeholder meeting
+**Stakeholder meeting**   
+**Akshay's Notes:**  
 - Discussion on Target stakeholders
   1. Future Data analyst(Employee)
   2. Employeer
@@ -51,8 +45,53 @@ _Protocol writer: Devyn_
 1. Where should employee apply ?
 2. Tell us job description, we will give you salary and job title.
 
+**Devyn's Notes:**  
+Objectives: Target group, Questions, How does it help the end user?
 
-### **8.  Wednesday
+Minimums to see:
+- Intro into the topic
+- Why (problem)
+- Target group
+- Data
+- Entity relationship diagram
+- Time-frame/milestones
+- potential risks or blockers
+
+Stakeholder meeting notes:
+- One-time data analysis to about job adverts in the US on one day
+- Target group: focus on all three or just one(two)?
+    - Three different target groups is a "big task", better to have fewer.
+    Possible employee include: past bootcamp participants, apprenticeship, self taught, no experience or degree, experience, etc.
+    Possible schools include: traditional universities, coding websites, bootcamp organizations, tutors, etc.
+    possible employers include: companies doing their own hiring, "head-hunters", etc.
+    - We settled on employees and school, had some overlap.
+    - What skills to learn -> how to learn then -> what to offer
+    - Missing skills?
+    - What can I apply for with current skills?
+
+Next Steps:
+- assess data quality
+- how to handle position hierarchies like junior, senior, middle, etc.
 
 
-###
+### **8.  Wednesday 30.11.2022**
+
+### **9.  Thursday 01.12.2022**
+### **9.  Friday 02.12.2022**
+
+### **10.  Monday 05.12.2022**
+MVP:
+- Problem
+    - Which skills are required to be a data analyst or data scientist.
+    - What curriculum to offer?
+- Market research
+    - Stakeholders: “employees” and “schools”, Future data analysts/scientists and the schools offering courses or curriculum. 
+    - Potential competitors: Likely, but unsure.
+- Potential solution
+    - Help students to learn or prioritize which skills are needed for becoming a data analyst or data scientist.
+    - Suggest which skills to teach.
+- Define features list
+    - Based on job, list skills needed in order of importance, and list of possible schools with that curriculum.
+- Iterate
+
+
