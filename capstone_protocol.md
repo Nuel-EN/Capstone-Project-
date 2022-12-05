@@ -37,3 +37,22 @@ _Protocol writer: Devyn_
 - Data catalog - Akshay, Nuel
 - Upload ER diagram - Akshay, Martin
 - Add project management to slides - Devyn
+
+### **6. Monday 28.11.2022**
+
+
+### **7. Tuesday 29.11.2022**
+- Stakeholder meeting
+- Discussion on Target stakeholders
+  1. Future Data analyst(Employee)
+  2. Employeer
+  3. Schools
+- Discussion on question 
+1. Where should employee apply ?
+2. Tell us job description, we will give you salary and job title.
+
+
+### **8.  Wednesday
+
+
+###
