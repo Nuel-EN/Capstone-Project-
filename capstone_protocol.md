@@ -68,6 +68,7 @@ Stakeholder meeting notes:
     - What skills to learn -> how to learn then -> what to offer
     - Missing skills?
     - What can I apply for with current skills?
+- Look into Natural Language Processing 
 
 Next Steps:
 - assess data quality
@@ -75,10 +76,18 @@ Next Steps:
 
 
 ### **8.  Wednesday 30.11.2022**
+- Made a decision on the target group.
+- Created a Kanban board for different roles and tasks to be completed
+- Assigned task to different teams
+    - Nuel and Martin - Data preprocessing and merging.
+    - Devyn and Akshay - Research on NLP 
 
 ### **9.  Thursday 01.12.2022**
+- Nuel and Martin - Finished Dataset Preprocessing and merging and began with filtering the Job title column into Data scientist and Data analyst
+- Devyn and Akshay - Began working on NLP
 ### **9.  Friday 02.12.2022**
-
+- Nuel and Martin - continued with Thursdays' task
+- Devyn and Akshay - continued with previous task
 ### **10.  Monday 05.12.2022**
 MVP:
 - Problem
@@ -93,5 +102,8 @@ MVP:
 - Define features list
     - Based on job, list skills needed in order of importance, and list of possible schools with that curriculum.
 - Iterate
+
+Question for Phillip:  
+-  Filter before merging or merge before filtering: This question is wrt loosing information in the data scientist dataset.
 
 
