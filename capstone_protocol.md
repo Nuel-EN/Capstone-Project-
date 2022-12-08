@@ -106,4 +106,14 @@ MVP:
 Question for Phillip:  
 -  Filter before merging or merge before filtering: This question is wrt loosing information in the data scientist dataset.
 
+### **11. Wednesday 06.12.2022**
+- exploring job title column 
+- catagoring the job titles into data analyst, data scienist, data science analyst and so on...
+- exploring job discription column, extracting soft skills and hard skills out of job discription column
+### **12. Thursday 07.12.2022**
+- Working on keywords search 
+- Ctatogartise "other" job titles into data analysts and data scientists
+- Working on job title word cloud
+
+
 
