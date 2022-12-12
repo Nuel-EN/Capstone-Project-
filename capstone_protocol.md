@@ -134,15 +134,42 @@ work on job title and description keyword and start ranking in the next few days
 
 
 
-### **11. Wednesday 06.12.2022**
+### **11. Wednesday 07.12.2022**
 - exploring job title column 
 - catagoring the job titles into data analyst, data scienist, data science analyst and so on...
 - exploring job discription column, extracting soft skills and hard skills out of job discription column
-### **12. Thursday 07.12.2022**
+### **12. Thursday 08.12.2022**
 - Working on keywords search 
 - Categorize  "other" job titles into data analysts and data scientists
 - Working on job title word cloud
- ### **13 Friday 08.12.2022**
+ ### **13 Friday 09.12.2022**
  - worked on the job description column to find skill, experience......
 
+### **14 Monday 12.12.2022**
+- meet with matthias and hopefully Selma to resolve our tokenize-two-word problem
+- discuss future steps:
+    - reduce job title catagories
+    - apply two word solution to experience
+    - combine notebooks 
+    - upload to database
+    - begin working with Tableau
+- analysis/visualizations
+    - skill weighting?
+    - count occurrences
+    - groupby job title (analyst, scientist, etc.) with(?)
+        - languages
+        - databases
+        - tools
+        - experience
+        - etc. 
+    - word cloud of descriptions
+    - job title
+    - adding other columns (if there is time)?
+        - salary
+        - revenue
+        - size of the company
+        - seniority (senior, junior, etc.)
+        - etc.
+    - groupby seniority?
+- meeting with Selma
 
