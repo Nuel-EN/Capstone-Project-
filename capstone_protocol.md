@@ -106,6 +106,34 @@ MVP:
 Question for Phillip:  
 -  Filter before merging or merge before filtering: This question is wrt loosing information in the data scientist dataset.
 
+### **11. Tuesday 06.12.2022**
+
+Stakeholder Meeting:
+feature list : how do we intend to accomplish our potential, solution. i.e how do we tell the students which skills to learn.
+what do you expect to find
+what groups of information do we intend to use.
+mvp: core deliverables that we have to deliver no matter what(most impt part of our project.) scoping, specific as possible
+intended to keep = hard skills, soft skills(more specific soft skills) and experience. (employee to job fit)
+how to use / intend to turn our scope into knowlegde to be utilized by the stakeholders
+job title grouping. (junior, senior ...... )
+expect to see higher years of experience for senior levels. but then we need to have a look at our stake holders.
+count how often a skill appears then group by (hard, soft and experience columns) columns
+more you count implies more important it is.
+exclude data scientist analyst or data science analyst, ....... or take as a third group and see what the difference is or if the company title preference is a bit screwed... or is there a new title out there.
+define data analyst and others  with respect to the content of our dataset, creates transparency and trust.
+skill weighting (could be done on tableau).
+
+Most important : turning columns into knowledge.
+
+
+Drop Data-Data??
+one Master Dataset ??
+
+Task??
+work on job title and description keyword and start ranking in the next few days
+
+
+
 ### **11. Wednesday 06.12.2022**
 - exploring job title column 
 - catagoring the job titles into data analyst, data scienist, data science analyst and so on...
