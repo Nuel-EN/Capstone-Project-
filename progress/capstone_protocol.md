@@ -107,7 +107,7 @@ Question for Phillip:
 -  Filter before merging or merge before filtering: This question is wrt loosing information in the data scientist dataset.
 
 ### **11. Tuesday 06.12.2022**
-
+**Nuel:**
 Stakeholder Meeting:
 feature list : how do we intend to accomplish our potential, solution. i.e how do we tell the students which skills to learn.
 what do you expect to find
@@ -136,7 +136,7 @@ work on job title and description keyword and start ranking in the next few days
 
 ### **11. Wednesday 07.12.2022**
 - exploring job title column 
-- catagoring the job titles into data analyst, data scienist, data science analyst and so on...
+- categoring the job titles into data analyst, data scienist, data science analyst and so on...
 - exploring job discription column, extracting soft skills and hard skills out of job discription column
 ### **12. Thursday 08.12.2022**
 - Working on keywords search 
