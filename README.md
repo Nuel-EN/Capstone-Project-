@@ -11,6 +11,11 @@ _**NB** : Collaborators are listed in no order of importance_.
   PostgreSQL  
   Tableau
   
-**How to work with this repository**  
+**How to work with this repository**   
+_**NB** : Please make sure that the required tools are available in your local system before attempting to run this repository_.  
+clone this repository   
+run Master-NB-ipynb file  
+
   
 **Current State** 
+
